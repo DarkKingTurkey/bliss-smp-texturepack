@@ -1,0 +1,3449 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 1001,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/astra_gem_tier1"
+        }
+      },
+      {
+        "threshold": 1002,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/fire_gem_tier1"
+        }
+      },
+      {
+        "threshold": 1003,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flux_gem_tier1"
+        }
+      },
+      {
+        "threshold": 1004,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/life_gem_tier1"
+        }
+      },
+      {
+        "threshold": 1005,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/puff_gem_tier1"
+        }
+      },
+      {
+        "threshold": 1006,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/speed_gem_tier1"
+        }
+      },
+      {
+        "threshold": 1007,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/strength_gem_tier1"
+        }
+      },
+      {
+        "threshold": 1008,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wealth_gem_tier1"
+        }
+      },
+      {
+        "threshold": 1009,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gold_gem"
+        }
+      },
+      {
+        "threshold": 1010,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gold_gem_1"
+        }
+      },
+      {
+        "threshold": 1011,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gold_gem_2"
+        }
+      },
+      {
+        "threshold": 1012,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gold_gem_3"
+        }
+      },
+      {
+        "threshold": 1013,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gold_gem_4"
+        }
+      },
+      {
+        "threshold": 1014,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gold_gem_5"
+        }
+      },
+      {
+        "threshold": 1015,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gold_gem_6"
+        }
+      },
+      {
+        "threshold": 1016,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gold_gem_7"
+        }
+      },
+      {
+        "threshold": 1017,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gold_gem_8"
+        }
+      },
+      {
+        "threshold": 1021,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/astra_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 1022,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/fire_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 1023,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flux_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 1024,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/life_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 1025,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/puff_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 1026,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/speed_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 1027,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/strength_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 1028,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wealth_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 1031,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/astra_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 1032,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/fire_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 1033,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flux_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 1034,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/life_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 1035,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/puff_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 1036,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/speed_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 1037,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/strength_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 1038,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wealth_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 1041,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/astra_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 1042,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/fire_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 1043,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flux_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 1044,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/life_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 1045,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/puff_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 1046,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/speed_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 1047,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/strength_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 1048,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wealth_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 2001,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/astra_gem_tier2"
+        }
+      },
+      {
+        "threshold": 2002,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/fire_gem_tier2"
+        }
+      },
+      {
+        "threshold": 2003,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flux_gem_tier2"
+        }
+      },
+      {
+        "threshold": 2004,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/life_gem_tier2"
+        }
+      },
+      {
+        "threshold": 2005,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/puff_gem_tier2"
+        }
+      },
+      {
+        "threshold": 2006,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/speed_gem_tier2"
+        }
+      },
+      {
+        "threshold": 2007,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/strength_gem_tier2"
+        }
+      },
+      {
+        "threshold": 2008,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wealth_gem_tier2"
+        }
+      },
+      {
+        "threshold": 2021,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/astra_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 2022,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/fire_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 2023,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flux_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 2024,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/life_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 2025,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/puff_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 2026,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/speed_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 2027,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/strength_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 2028,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wealth_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 2031,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/astra_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 2032,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/fire_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 2033,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flux_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 2034,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/life_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 2035,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/puff_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 2036,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/speed_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 2037,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/strength_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 2038,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wealth_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 2041,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/astra_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 2042,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/fire_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 2043,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flux_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 2044,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/life_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 2045,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/puff_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 2046,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/speed_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 2047,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/strength_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 2048,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wealth_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 5001,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/heretic_gem"
+        }
+      },
+      {
+        "threshold": 5002,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/heretic_gem"
+        }
+      },
+      {
+        "threshold": 5003,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/auratus_gem"
+        }
+      },
+      {
+        "threshold": 5004,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/auratus_gem"
+        }
+      },
+      {
+        "threshold": 5021,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/heretic_gem"
+        }
+      },
+      {
+        "threshold": 5022,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/heretic_gem"
+        }
+      },
+      {
+        "threshold": 5023,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/auratus_gem"
+        }
+      },
+      {
+        "threshold": 5024,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/auratus_gem"
+        }
+      },
+      {
+        "threshold": 5031,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/heretic_gem"
+        }
+      },
+      {
+        "threshold": 5032,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/heretic_gem"
+        }
+      },
+      {
+        "threshold": 5033,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/auratus_gem"
+        }
+      },
+      {
+        "threshold": 5034,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/auratus_gem"
+        }
+      },
+      {
+        "threshold": 5041,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/heretic_gem"
+        }
+      },
+      {
+        "threshold": 5042,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/heretic_gem"
+        }
+      },
+      {
+        "threshold": 5043,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/auratus_gem"
+        }
+      },
+      {
+        "threshold": 5044,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/auratus_gem"
+        }
+      },
+      {
+        "threshold": 6001,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/frost_gem_tier1"
+        }
+      },
+      {
+        "threshold": 6002,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/frost_gem_tier2"
+        }
+      },
+      {
+        "threshold": 6003,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/frost_gem_tier3"
+        }
+      },
+      {
+        "threshold": 6021,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/frost_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 6022,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/frost_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 6023,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/frost_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 6031,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/frost_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 6032,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/frost_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 6033,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/frost_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 6041,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/frost_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 6042,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/frost_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 6043,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/frost_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 6101,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/terra_gem_tier1"
+        }
+      },
+      {
+        "threshold": 6102,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/terra_gem_tier2"
+        }
+      },
+      {
+        "threshold": 6103,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/terra_gem_tier3"
+        }
+      },
+      {
+        "threshold": 6121,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/terra_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 6122,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/terra_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 6123,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/terra_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 6131,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/terra_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 6132,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/terra_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 6133,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/terra_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 6141,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/terra_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 6142,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/terra_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 6143,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/terra_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 6201,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/aqua_gem_tier1"
+        }
+      },
+      {
+        "threshold": 6202,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/aqua_gem_tier2"
+        }
+      },
+      {
+        "threshold": 6203,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/aqua_gem_tier3"
+        }
+      },
+      {
+        "threshold": 6221,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/aqua_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 6222,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/aqua_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 6223,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/aqua_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 6231,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/aqua_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 6232,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/aqua_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 6233,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/aqua_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 6241,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/aqua_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 6242,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/aqua_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 6243,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/aqua_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 6301,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/toxic_gem_tier1"
+        }
+      },
+      {
+        "threshold": 6302,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/toxic_gem_tier2"
+        }
+      },
+      {
+        "threshold": 6303,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/toxic_gem_tier3"
+        }
+      },
+      {
+        "threshold": 6321,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/toxic_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 6322,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/toxic_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 6323,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/toxic_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 6331,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/toxic_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 6332,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/toxic_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 6333,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/toxic_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 6341,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/toxic_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 6342,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/toxic_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 6343,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/toxic_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 6401,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/illusion_gem_tier1"
+        }
+      },
+      {
+        "threshold": 6402,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/illusion_gem_tier2"
+        }
+      },
+      {
+        "threshold": 6403,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/illusion_gem_tier3"
+        }
+      },
+      {
+        "threshold": 6421,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/illusion_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 6422,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/illusion_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 6423,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/illusion_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 6431,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/illusion_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 6432,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/illusion_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 6433,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/illusion_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 6441,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/illusion_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 6442,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/illusion_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 6443,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/illusion_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 6501,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/mecha_gem_tier1"
+        }
+      },
+      {
+        "threshold": 6502,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/mecha_gem_tier2"
+        }
+      },
+      {
+        "threshold": 6503,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/mecha_gem_tier3"
+        }
+      },
+      {
+        "threshold": 6521,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/mecha_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 6522,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/mecha_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 6523,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/mecha_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 6531,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/mecha_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 6532,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/mecha_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 6533,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/mecha_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 6541,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/mecha_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 6542,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/mecha_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 6543,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/mecha_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 6701,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/chrono_gem_tier1"
+        }
+      },
+      {
+        "threshold": 6702,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/chrono_gem_tier2"
+        }
+      },
+      {
+        "threshold": 6703,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/chrono_gem_tier3"
+        }
+      },
+      {
+        "threshold": 6721,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/chrono_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 6722,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/chrono_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 6723,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/chrono_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 6731,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/chrono_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 6732,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/chrono_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 6733,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/chrono_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 6741,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/chrono_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 6742,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/chrono_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 6743,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/chrono_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 6801,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gravity_gem_tier1"
+        }
+      },
+      {
+        "threshold": 6802,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gravity_gem_tier2"
+        }
+      },
+      {
+        "threshold": 6803,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gravity_gem_tier3"
+        }
+      },
+      {
+        "threshold": 6821,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gravity_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 6822,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gravity_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 6823,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gravity_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 6831,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gravity_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 6832,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gravity_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 6833,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gravity_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 6841,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gravity_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 6842,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gravity_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 6843,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gravity_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 6901,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/storm_gem_tier1"
+        }
+      },
+      {
+        "threshold": 6902,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/storm_gem_tier2"
+        }
+      },
+      {
+        "threshold": 6903,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/storm_gem_tier3"
+        }
+      },
+      {
+        "threshold": 6921,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/storm_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 6922,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/storm_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 6923,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/storm_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 6931,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/storm_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 6932,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/storm_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 6933,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/storm_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 6941,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/storm_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 6942,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/storm_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 6943,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/storm_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 7001,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sonic_gem_tier1"
+        }
+      },
+      {
+        "threshold": 7002,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sonic_gem_tier2"
+        }
+      },
+      {
+        "threshold": 7003,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sonic_gem_tier3"
+        }
+      },
+      {
+        "threshold": 7021,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sonic_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 7022,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sonic_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 7023,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sonic_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 7031,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sonic_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 7032,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sonic_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 7033,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sonic_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 7041,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sonic_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 7042,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sonic_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 7043,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sonic_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 7101,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wood_gem_tier1"
+        }
+      },
+      {
+        "threshold": 7102,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wood_gem_tier2"
+        }
+      },
+      {
+        "threshold": 7103,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wood_gem_tier3"
+        }
+      },
+      {
+        "threshold": 7121,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wood_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 7122,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wood_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 7123,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wood_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 7131,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wood_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 7132,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wood_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 7133,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wood_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 7141,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wood_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 7142,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wood_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 7143,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wood_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 7201,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/spirit_gem_tier1"
+        }
+      },
+      {
+        "threshold": 7202,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/spirit_gem_tier2"
+        }
+      },
+      {
+        "threshold": 7203,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/spirit_gem_tier3"
+        }
+      },
+      {
+        "threshold": 7221,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/spirit_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 7222,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/spirit_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 7223,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/spirit_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 7231,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/spirit_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 7232,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/spirit_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 7233,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/spirit_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 7241,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/spirit_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 7242,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/spirit_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 7243,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/spirit_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 7301,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/light_gem_tier1"
+        }
+      },
+      {
+        "threshold": 7302,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/light_gem_tier2"
+        }
+      },
+      {
+        "threshold": 7303,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/light_gem_tier3"
+        }
+      },
+      {
+        "threshold": 7321,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/light_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 7322,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/light_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 7323,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/light_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 7331,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/light_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 7332,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/light_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 7333,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/light_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 7341,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/light_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 7342,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/light_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 7343,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/light_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 7401,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wind_gem_tier1"
+        }
+      },
+      {
+        "threshold": 7402,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wind_gem_tier2"
+        }
+      },
+      {
+        "threshold": 7403,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wind_gem_tier3"
+        }
+      },
+      {
+        "threshold": 7421,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wind_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 7422,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wind_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 7423,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wind_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 7431,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wind_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 7432,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wind_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 7433,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wind_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 7441,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wind_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 7442,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wind_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 7443,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/wind_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 7501,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/metal_gem_tier1"
+        }
+      },
+      {
+        "threshold": 7502,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/metal_gem_tier2"
+        }
+      },
+      {
+        "threshold": 7503,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/metal_gem_tier3"
+        }
+      },
+      {
+        "threshold": 7521,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/metal_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 7522,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/metal_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 7523,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/metal_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 7531,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/metal_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 7532,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/metal_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 7533,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/metal_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 7541,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/metal_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 7542,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/metal_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 7543,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/metal_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 7601,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/death_gem_tier1"
+        }
+      },
+      {
+        "threshold": 7602,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/death_gem_tier2"
+        }
+      },
+      {
+        "threshold": 7603,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/death_gem_tier3"
+        }
+      },
+      {
+        "threshold": 7621,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/death_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 7622,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/death_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 7623,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/death_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 7631,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/death_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 7632,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/death_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 7633,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/death_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 7641,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/death_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 7642,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/death_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 7643,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/death_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 7701,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sun_gem_tier1"
+        }
+      },
+      {
+        "threshold": 7702,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sun_gem_tier2"
+        }
+      },
+      {
+        "threshold": 7703,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sun_gem_tier3"
+        }
+      },
+      {
+        "threshold": 7721,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sun_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 7722,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sun_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 7723,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sun_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 7731,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sun_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 7732,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sun_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 7733,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sun_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 7741,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sun_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 7742,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sun_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 7743,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/sun_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 7801,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/diamond_gem_tier1"
+        }
+      },
+      {
+        "threshold": 7802,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/diamond_gem_tier2"
+        }
+      },
+      {
+        "threshold": 7803,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/diamond_gem_tier3"
+        }
+      },
+      {
+        "threshold": 7821,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/diamond_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 7822,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/diamond_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 7823,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/diamond_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 7831,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/diamond_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 7832,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/diamond_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 7833,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/diamond_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 7841,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/diamond_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 7842,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/diamond_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 7843,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/diamond_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 7901,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ink_gem_tier1"
+        }
+      },
+      {
+        "threshold": 7902,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ink_gem_tier2"
+        }
+      },
+      {
+        "threshold": 7903,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ink_gem_tier3"
+        }
+      },
+      {
+        "threshold": 7921,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ink_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 7922,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ink_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 7923,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ink_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 7931,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ink_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 7932,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ink_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 7933,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ink_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 7941,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ink_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 7942,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ink_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 7943,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ink_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 8001,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/glass_gem_tier1"
+        }
+      },
+      {
+        "threshold": 8002,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/glass_gem_tier2"
+        }
+      },
+      {
+        "threshold": 8003,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/glass_gem_tier3"
+        }
+      },
+      {
+        "threshold": 8021,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/glass_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 8022,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/glass_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 8023,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/glass_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 8031,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/glass_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 8032,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/glass_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 8033,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/glass_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 8041,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/glass_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 8042,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/glass_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 8043,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/glass_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 8101,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/thermo_gem_tier1"
+        }
+      },
+      {
+        "threshold": 8102,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/thermo_gem_tier2"
+        }
+      },
+      {
+        "threshold": 8103,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/thermo_gem_tier3"
+        }
+      },
+      {
+        "threshold": 8121,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/thermo_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 8122,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/thermo_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 8123,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/thermo_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 8131,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/thermo_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 8132,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/thermo_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 8133,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/thermo_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 8141,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/thermo_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 8142,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/thermo_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 8143,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/thermo_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 8201,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/powder_gem_tier1"
+        }
+      },
+      {
+        "threshold": 8202,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/powder_gem_tier2"
+        }
+      },
+      {
+        "threshold": 8203,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/powder_gem_tier3"
+        }
+      },
+      {
+        "threshold": 8221,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/powder_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 8222,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/powder_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 8223,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/powder_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 8231,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/powder_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 8232,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/powder_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 8233,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/powder_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 8241,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/powder_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 8242,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/powder_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 8243,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/powder_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 8301,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/desert_gem_tier1"
+        }
+      },
+      {
+        "threshold": 8302,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/desert_gem_tier2"
+        }
+      },
+      {
+        "threshold": 8303,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/desert_gem_tier3"
+        }
+      },
+      {
+        "threshold": 8321,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/desert_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 8322,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/desert_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 8323,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/desert_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 8331,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/desert_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 8332,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/desert_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 8333,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/desert_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 8341,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/desert_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 8342,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/desert_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 8343,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/desert_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 8401,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/techno_gem_tier1"
+        }
+      },
+      {
+        "threshold": 8402,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/techno_gem_tier2"
+        }
+      },
+      {
+        "threshold": 8403,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/techno_gem_tier3"
+        }
+      },
+      {
+        "threshold": 8421,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/techno_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 8422,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/techno_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 8423,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/techno_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 8431,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/techno_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 8432,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/techno_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 8433,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/techno_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 8441,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/techno_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 8442,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/techno_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 8443,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/techno_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 8501,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/bubble_gem_tier1"
+        }
+      },
+      {
+        "threshold": 8502,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/bubble_gem_tier2"
+        }
+      },
+      {
+        "threshold": 8503,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/bubble_gem_tier3"
+        }
+      },
+      {
+        "threshold": 8521,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/bubble_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 8522,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/bubble_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 8523,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/bubble_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 8531,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/bubble_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 8532,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/bubble_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 8533,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/bubble_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 8541,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/bubble_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 8542,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/bubble_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 8543,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/bubble_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 8601,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/error_gem_tier1"
+        }
+      },
+      {
+        "threshold": 8602,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/error_gem_tier2"
+        }
+      },
+      {
+        "threshold": 8603,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/error_gem_tier3"
+        }
+      },
+      {
+        "threshold": 8621,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/error_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 8622,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/error_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 8623,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/error_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 8631,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/error_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 8632,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/error_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 8633,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/error_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 8641,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/error_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 8642,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/error_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 8643,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/error_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 8701,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/shadow_gem_tier1"
+        }
+      },
+      {
+        "threshold": 8702,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/shadow_gem_tier2"
+        }
+      },
+      {
+        "threshold": 8703,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/shadow_gem_tier3"
+        }
+      },
+      {
+        "threshold": 8721,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/shadow_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 8722,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/shadow_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 8723,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/shadow_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 8731,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/shadow_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 8732,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/shadow_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 8733,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/shadow_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 8741,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/shadow_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 8742,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/shadow_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 8743,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/shadow_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 8801,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/plasma_gem_tier1"
+        }
+      },
+      {
+        "threshold": 8802,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/plasma_gem_tier2"
+        }
+      },
+      {
+        "threshold": 8803,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/plasma_gem_tier3"
+        }
+      },
+      {
+        "threshold": 8821,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/plasma_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 8822,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/plasma_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 8823,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/plasma_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 8831,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/plasma_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 8832,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/plasma_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 8833,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/plasma_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 8841,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/plasma_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 8842,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/plasma_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 8843,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/plasma_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 8901,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flesh_gem_tier1"
+        }
+      },
+      {
+        "threshold": 8902,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flesh_gem_tier2"
+        }
+      },
+      {
+        "threshold": 8903,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flesh_gem_tier3"
+        }
+      },
+      {
+        "threshold": 8921,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flesh_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 8922,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flesh_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 8923,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flesh_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 8931,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flesh_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 8932,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flesh_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 8933,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flesh_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 8941,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flesh_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 8942,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flesh_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 8943,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/flesh_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 9001,
+        "model": {
+          "type": "model",
+          "model": "minecraft:item/allforone_gem_t1"
+        }
+      },
+      {
+        "threshold": 9002,
+        "model": {
+          "type": "model",
+          "model": "minecraft:item/allforone_gem_t2"
+        }
+      },
+      {
+        "threshold": 9003,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/magnet_gem_tier3"
+        }
+      },
+      {
+        "threshold": 9021,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/magnet_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 9022,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/magnet_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 9023,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/magnet_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 9031,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/magnet_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 9032,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/magnet_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 9033,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/magnet_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 9041,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/magnet_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 9042,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/magnet_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 9043,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/magnet_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 9101,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gas_gem_tier1"
+        }
+      },
+      {
+        "threshold": 9102,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gas_gem_tier2"
+        }
+      },
+      {
+        "threshold": 9103,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gas_gem_tier3"
+        }
+      },
+      {
+        "threshold": 9121,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gas_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 9122,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gas_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 9123,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gas_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 9131,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gas_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 9132,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gas_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 9133,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gas_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 9141,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gas_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 9142,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gas_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 9143,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/gas_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 9201,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ghost_gem_tier1"
+        }
+      },
+      {
+        "threshold": 9202,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ghost_gem_tier2"
+        }
+      },
+      {
+        "threshold": 9203,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ghost_gem_tier3"
+        }
+      },
+      {
+        "threshold": 9221,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ghost_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 9222,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ghost_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 9223,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ghost_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 9231,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ghost_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 9232,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ghost_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 9233,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ghost_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 9241,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ghost_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 9242,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ghost_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 9243,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/ghost_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 9301,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/phoenix_gem_tier1"
+        }
+      },
+      {
+        "threshold": 9302,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/phoenix_gem_tier2"
+        }
+      },
+      {
+        "threshold": 9303,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/phoenix_gem_tier3"
+        }
+      },
+      {
+        "threshold": 9321,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/phoenix_gem_tier1_pristine2"
+        }
+      },
+      {
+        "threshold": 9322,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/phoenix_gem_tier2_pristine2"
+        }
+      },
+      {
+        "threshold": 9323,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/phoenix_gem_tier3_pristine2"
+        }
+      },
+      {
+        "threshold": 9331,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/phoenix_gem_tier1_pristine3"
+        }
+      },
+      {
+        "threshold": 9332,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/phoenix_gem_tier2_pristine3"
+        }
+      },
+      {
+        "threshold": 9333,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/phoenix_gem_tier3_pristine3"
+        }
+      },
+      {
+        "threshold": 9341,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/phoenix_gem_tier1_pristine4"
+        }
+      },
+      {
+        "threshold": 9342,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/phoenix_gem_tier2_pristine4"
+        }
+      },
+      {
+        "threshold": 9343,
+        "model": {
+          "type": "model",
+          "model": "blissgems:item/phoenix_gem_tier3_pristine4"
+        }
+      },
+      {
+        "threshold": 12345,
+        "model": {
+          "type": "model",
+          "model": "blissgems:custom/auratus_smash"
+        }
+      },
+      {
+        "threshold": 12346,
+        "model": {
+          "type": "model",
+          "model": "blissgems:custom/parry"
+        }
+      },
+      {
+        "threshold": 12347,
+        "model": {
+          "type": "model",
+          "model": "blissgems:custom/bloodsaws"
+        }
+      },
+      {
+        "threshold": 12348,
+        "model": {
+          "type": "model",
+          "model": "blissgems:custom/chain"
+        }
+      },
+      {
+        "threshold": 12349,
+        "model": {
+          "type": "model",
+          "model": "blissgems:custom/chain_end"
+        }
+      },
+      {
+        "threshold": 12350,
+        "model": {
+          "type": "model",
+          "model": "blissgems:custom/astra_dagger"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/nautilus_shell"
+    }
+  }
+}
